@@ -11,8 +11,8 @@ Automatic summarization is the process of reducing a text document with a comput
    ```
    pip install algorithmia
    ```
-4. Change input text and API key in 'text.py'
-5. Run 'test.py'
+4. Change input text and API key in `text.py`
+5. Run `test.py`
 
 ### Input
 (Required): Large block of text
