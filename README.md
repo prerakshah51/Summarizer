@@ -1,8 +1,7 @@
 # Summarizer
 Summarize english text
-### Dependencies
-pip install algorithmia 
-### Usage
+
+#### Usage
 1. Register on Algorithmia and get your own API key
 2. You can find your API key in your profile
 3. Install algorithmia by typing
