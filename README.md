@@ -3,4 +3,5 @@ Summarize english text
 ### Dependencies
 pip install algorithmia 
 ### Usage
-Run test.py
+1. Change input text in test.py
+2. Run test.py
